@@ -1,3 +1,40 @@
-.m-10{
+.m-10 {
     margin: 5rem;
 }
+
+.primary-bg {
+    background: rgb(238, 238, 238);
+}
+
+.m-0 {
+    margin: 0% !important;
+}
+
+.custom-footer-color {
+    background-color: rgb(52, 52, 52);
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: blue;
+}
+.navbar-nav .nav-link{
+    border-radius: 10px;
+    color: rgb(52, 52, 52);
+    background-color: rgb(255, 255, 255);
+}
+.navbar-nav .nav-link:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgba( 13,202,240);
+    transition: .5s;
+    border-radius: 10px;
+    padding: 0px 10px;
+  }
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin: 0px 10px;
+    height: 500px;
+}
+
